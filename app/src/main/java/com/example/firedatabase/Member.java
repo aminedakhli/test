@@ -7,14 +7,14 @@ public class Member {
     private String VideoUri;
 
     private Member(){}
-
+/*
     public Member(String name,String videoUri){
         if (name.trim().equals("")){
             name = " not available";
         }
         VideoName = name;
         VideoUri = videoUri;
-    }
+    }  */
 
     public String getVideoName() {
         return VideoName;
