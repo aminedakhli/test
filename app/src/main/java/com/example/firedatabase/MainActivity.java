@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int PICK_VIDEO_REQUEST = 1;
 
 
-    private Button choosebtn;
+  /*  private Button choosebtn;
     private Button uploadbtn;
     private   ProgressBar progressBar;
     private VideoView videoView;
@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
     private Uri videoUri;
     MediaController mediaController;
     private StorageReference mStorageRef;
-    private DatabaseReference mDataBaseRef;
+    private DatabaseReference mDataBaseRef;*/
 
 
 
